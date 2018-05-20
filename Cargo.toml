@@ -1,0 +1,6 @@
+[package]
+name = "mccarthy91"
+version = "0.1.0"
+authors = ["howard.huang <howard.huang@funp.com>"]
+
+[dependencies]
